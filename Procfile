@@ -1,1 +1,1 @@
-BotzHub: python bot.py
+BotzHub: python fsub.py
